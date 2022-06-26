@@ -22,4 +22,4 @@ Hi,Welcome to this Repo for DeepLearning. This part is start from one sharing co
 ## 本课程的目录树
 + 第一章：深度学期基础概念
 ...
-+ 本书所用示例
+
